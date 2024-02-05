@@ -1,0 +1,28 @@
+body{
+  background-color:steelblue;
+}
+input{
+  box-shadow: 5px 5px 25px black;
+  height:6vh;
+  width:20%;
+}
+#btn{
+  margin-top: 15px;
+  height:6vh;
+  width: 10%;
+  background-color: black;
+  color: white;
+}
+button{
+  width:9vh ;
+  height:9vh ;
+}
+table{
+  border:3px solid black;
+}
+td{
+  border:3px solid black;
+}
+h1{
+  color: yellow;
+}
